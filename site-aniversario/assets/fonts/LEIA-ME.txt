@@ -1,1 +1,0 @@
-As fontes (Cormorant Garamond, Pinyon Script e Caveat) carregam do Google Fonts. Para uso offline, baixe os arquivos .woff2 e coloque aqui, declarando-os com @font-face no style.css.
